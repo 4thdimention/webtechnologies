@@ -1,4 +1,5 @@
 # webtechnologies
 
-#restaurent website
-html websites dev by me
+#restaurent website and ss website
+open files in desktop
+
